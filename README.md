@@ -1,4 +1,4 @@
-**# 🔬 Oncology ML: Cell Tumor Classification & Prediction
+🔬 Oncology ML: Cell Tumor Classification & Prediction
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_APP_LINK_HERE)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
@@ -6,12 +6,6 @@
 ![Deployment](https://img.shields.io/badge/Deployed%20on-Streamlit-red.svg)
 
 > An interactive web application designed to predict and classify cell tumors using predictive machine learning algorithms.
-
-<br>
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Drop+a+Screenshot+of+Your+Streamlit+App+Here" alt="App Screenshot" width="800"/>
-</div>
 
 <br>
 
@@ -46,4 +40,4 @@ Trained on a comprehensive genomic and clinical dataset from Kaggle, the predict
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/shivansh01234/cancer-tumor-prediction.git](https://github.com/shivansh01234/cancer-tumor-prediction.git)**
+   git clone [https://github.com/shivansh01234/Cancer-prediction-model.git](https://github.com/shivansh01234/Cancer-prediction-model.git)
